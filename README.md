@@ -44,25 +44,25 @@ Amazon-Reviews-Sentiment/
 O projeto inclui várias análises exploratórias para entender melhor os dados:  
 
 1. **Distribuição de sentimentos**  
-   ![alt text](img\1.png)
+   ![Sentiment Distribution](img/1.png)  
 
 2. **Distribuição das notas (ratings)**  
-   ![alt text](img\2.png)
+   ![Rating Distribution](img/2.png)  
 
 3. **WordCloud geral das reviews**  
-   ![alt text](img\3.png)
+   ![WordCloud Reviews](img/3.png)  
 
 4. **WordCloud comparando Positive vs Negative**  
-   ![alt text](img\4.png) 
+   ![WordCloud Positive Negative](img/4.png)  
 
 5. **Helpful votes vs Rating (Boxplot)**  
-   ![alt text](img\5.png)
+   ![Helpful vs Rating](img/5.png)  
 
 6. **Top 20 palavras mais frequentes nas reviews positivas**  
-   ![alt text](img\6.png) 
+   ![Top 20 Positive Words](img/6.png)  
 
-7. **Top 20 palavras mais frequentes nas reviews negativas** 
-    ![alt text](img\7.png)
+7. **Top 20 palavras mais frequentes nas reviews negativas**  
+   ![Top 20 Negative Words](img/7.png)  
 
 Esses plots ajudam a entender padrões como:  
 - Maioria das reviews são **positivas**.  
@@ -91,10 +91,10 @@ Métricas avaliadas:
 - **Pontos fracos**: A classe **Neutra** é mais difícil de classificar devido à quantidade reduzida de exemplos.  
 
 ### Matriz de Confusão (Regressão Logística)  
-![alt text](img\bestmodel1.png)
+![Confusion Matrix](img/bestmodel1.png) 
 
 ### Curva ROC (Regressão Logística)  
-![alt text](img\bestmodel2.png)
+![ROC Curve](img/bestmodel2.png)  
 
 ---
 
