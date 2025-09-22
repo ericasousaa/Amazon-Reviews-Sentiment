@@ -24,7 +24,7 @@ Amazon-Reviews-Sentiment/
 
 ---
 
-## 🧹 Pré-processamento  
+##  Pré-processamento  
 
 - **Limpeza de texto**:  
   - Conversão para minúsculo.  
