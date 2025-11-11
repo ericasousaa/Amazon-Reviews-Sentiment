@@ -93,6 +93,9 @@ Métricas avaliadas:
 ### Curva ROC (Regressão Logística) 
 ![Confusion Matrix](img/bestmodel1.png) 
 
+Essa curva ROC mostra que o modelo de **Regressão Logística** teve um excelente desempenho com **área sob a curva (AUC) de 0.98**, indicando alta capacidade de distinguir corretamente entre as classes positivas e negativas.
+
+
 ### Matriz de Confusão (Regressão Logística)   
 ![ROC Curve](img/bestmodel2.png)  
 
