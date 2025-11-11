@@ -90,10 +90,10 @@ Métricas avaliadas:
 - **Pontos fortes**: Lida bem com textos usando TF-IDF, é robusta contra desbalanceamento ao aplicar pesos por classe.  
 - **Pontos fracos**: A classe **Neutra** é mais difícil de classificar devido à quantidade reduzida de exemplos.  
 
-### Matriz de Confusão (Regressão Logística)  
+### Curva ROC (Regressão Logística) 
 ![Confusion Matrix](img/bestmodel1.png) 
 
-### Curva ROC (Regressão Logística)  
+### Matriz de Confusão (Regressão Logística)   
 ![ROC Curve](img/bestmodel2.png)  
 
 ---
